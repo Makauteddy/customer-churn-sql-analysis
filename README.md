@@ -1,3 +1,4 @@
+# E-commerce-customer-churn-analysis 
 This repository contains the SQL queries written to analyze the dataset and uncover meaningful churn insights.
 
 For a detailed description of the project, including the business problem, step-by-step analysis, insights, and strategic recommendations, please check out the full article on Medium. The article provides a comprehensive breakdown of the churn patterns and offers practical recommendations to help improve customer retention.
